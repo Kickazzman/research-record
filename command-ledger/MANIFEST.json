@@ -1,0 +1,21 @@
+{
+ "files_seen": 701,
+ "lines_seen": 224858,
+ "entries_total": 25172,
+ "counts": {
+  "REMOTE": 17332,
+  "MENTION": 1108,
+  "LOCAL": 6732
+ },
+ "masked_credential_spans": 215,
+ "type_census": {
+  "session_header": 701,
+  "item": 223926,
+  "compaction_checkpoint": 231
+ },
+ "sha256": {
+  "command-ledger-remote.jsonl": "bc868e64c2fdfd655c23b528f7744c68a1ceae9da11229b27f796c14904a8a6c",
+  "command-ledger-local.jsonl": "567f23bf76b2801deb03b4f0ff41883c9d06a417dc11b309c0ce5a27ef38c8b0",
+  "command-ledger.md": "db01f329bfcd4b34656b8ca425463020bee78e09b25af8b038794e6d392efab6"
+ }
+}
